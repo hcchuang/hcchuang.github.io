@@ -2,7 +2,7 @@
 title: "Profitability of Technical Trading Rules in the Chinese Stock Market"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This article examines the profitability of technical analysis on the Shanghai Stock Exchange Composite Index (SSEC) and the Growth Enterprise Market (GEM) Index, employing stepwise generalized error rate control procedures to address the data-snooping bias.'
+excerpt: 'This article examines the profitability of technical analysis on the Shanghai Stock Exchange Composite Index and the Growth Enterprise Market Index, employing stepwise generalized error rate control procedures to address the data-snooping bias.'
 date: 2024-April
 venue: 'Pacific-Basin Finance Journal'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0927538X24000295'
