@@ -7,12 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hui-Ching Chuang is Associate Professor in the Department of Statistics, National Taipei University. 
-
-
-Research Interests
-======
-Machine Learning Applications, Natural Language Processing. Econometrics and Investemnt.
+Hui-Ching Chuang is an Associate Professor in the Department of Statistics at National Taipei University. Her research interests encompass machine learning applications, natural language processing, econometrics, and investment.
 
 
 Publications
