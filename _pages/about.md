@@ -17,12 +17,13 @@ Machine Learning Applications, Natural Language Processing. Econometrics and Inv
 
 Publications
 ======
+1. Jui-Chung Yang, Hui-Ching Chuang, Chung-Ming Kuan. (2020) Double Machine Learning with Gradient Boosting and Its Application to the Big N Audit Quality Effect, _Journal of Econometrics_,216 (1),268-283
 1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin.(2024) Search symbols, trading performance, and investor participation, _International Review of Economics and Finance_,92,380-393
 1. O-Chia Chuang, Hui-Ching Chuang, Zixuan Wang, and Jin Xu. (2024) Profitability of Technical Trading Rules in the Chinese Stock Market, _Pacific-Basin Finance Journal_,(84),102278
 1. Hui-Ching Chuang and Jauer Chen.(2024) Exploring Industry-Distress Effects on Loan Recovery: A Double Machine Learning Approach for Quantiles, _Econometrics_,(11),6
 1. Hui-Ching Chuang and Jui-Chung Yang.(2022) Dynamic Panel Data Estimators in Leverage Adjustments Model, _Advances in Financial Planning and Forecasting_,(10),67-111
 1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin. (2021) The Effect of Language on Investing: Evidence from Searches in Chinese versus English, _Pacific-Basin Finance Journal_,(67),101553
-1. Jui-Chung Yang, Hui-Ching Chuang, Chung-Ming Kuan. (2020) Double Machine Learning with Gradient Boosting and Its Application to the Big N Audit Quality Effect, _Journal of Econometrics_,216 (1),268-283
+
 
 Conference Papers
 ------
@@ -38,11 +39,15 @@ Conference Papers
    - Contemporary Research in Business and Finance, Yuan Ze University and Banking Academy Vietnam.
    - Seminar in National Taipei University and National Taiwan University
    - NBER productivity seminar, TPRI brownbag seminar, and the Max Planck Institute Innovation & Entrepreneurship seminar.(Presented by John. P Walsh).
-1. O-Chia Chuang, Hui-Ching Chuang, Zixuan Wang, and Jin Xu, _Profitability of Technical Trading Rules in the Chinese StockMarket: Data Snooping Bias Free Tests_, The 2022 TRIA-FeAT Joint Annual Meeting and International Conference on Risk, Insurance, and Financial Engineering,Taichung,Taiwan.
-1. Hui-Ching Chuang, O-Chia Chuang, Zaichao Du, and Zhenhong Huang. _Estimating the CARE system with possibly high-dimensional units_, 第六届环亚太青年计量学者会议,Wuhan/Online,China (*Present by O-Chia Chuang). The 2020 International Conference of Taiwan Finance Association,Puli,Taiwan. The 28thConference on the Theories and Practices of Securities and Financial Markets,Kaushung,Taiwan.
-1. Jui-Chung Yang, Chung-Ming Kuan, and Hui-Ching Chuang, _Machine Learning for Treatment Effect: An Applicationto the Big N Audit Quality Effect_, The 2019 Annual Meeting of the Financial Management Association International,New Orleans,USA. 
-1. Hui-Ching Chuang and Chung-Ming Kuan, _Systematic and Discretionary Hedge Funds: Classification and PerformanceComparison_, Quantitative Finance Workshop 3: Asset Pricing and Risk Management,IMS, NUS, Singapore,Singapore. The 2019 International Conference of Taiwan Finance Association,Taipei,Taiwan
-1. Hui-Ching Chuang and Jau-er Chen, _Downturn Loss Given Default: An Application of Unconditional Quantile Regression_, 2019 Annual Conference of Financial Engineering Association Taiwan,Taipei,Taiwan. The 32nd Australasian Finance and Banking Conference,Sydney,Australia.,
-1. Hui-Ching Chuang, Chih-Yung Lin, Yin-Siang Huang, and Iftekhar Hasan,_The Effect of Language on Investing: Evidencefrom Searches in Chinese versus English_, The 2019 International Conference of Taiwan Finance Association,Taipei,Taiwan. (*Present by Yin-Siang Huang)
-
-
+1. Hui-Ching Chuang, O-Chia Chuang, Zaichao Du, and Zhenhong Huang. _Estimating the CARE system with possibly high-dimensional units_,
+   - 第六届环亚太青年计量学者会议,Wuhan/Online,China (*Present by O-Chia Chuang).
+   - The 2020 International Conference of Taiwan Finance Association,Puli,Taiwan.
+   - The 28thConference on the Theories and Practices of Securities and Financial Markets,Kaushung,Taiwan.
+1. Jui-Chung Yang, Chung-Ming Kuan, and Hui-Ching Chuang, _Machine Learning for Treatment Effect: An Applicationto the Big N Audit Quality Effect_,
+   - The 2019 Annual Meeting of the Financial Management Association International,New Orleans,USA. 
+1. Hui-Ching Chuang and Chung-Ming Kuan, _Systematic and Discretionary Hedge Funds: Classification and PerformanceComparison_,
+   - Quantitative Finance Workshop 3: Asset Pricing and Risk Management,IMS, NUS, Singapore,Singapore.
+   - The 2019 International Conference of Taiwan Finance Association,Taipei,Taiwan
+1. Hui-Ching Chuang and Jau-er Chen, _Downturn Loss Given Default: An Application of Unconditional Quantile Regression_,
+   - The 2019 Annual Conference of Financial Engineering Association Taiwan,Taipei,Taiwan.
+   - The 32nd Australasian Finance and Banking Conference,Sydney,Australia.
