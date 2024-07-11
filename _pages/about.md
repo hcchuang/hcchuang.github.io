@@ -31,7 +31,7 @@ Publications
 Conference Papers
 ------
 1. Hui-Ching Chuang and Po-Hsuan Hsu, Chung‐Ming Kuan ,and Jui-Chung Yang, _Revamping Firm Fixed Effects Models with Machine Learning-New Evidence from Recovering the Missing R&D-Patent Relation_,
-   - The 2024 Asia/Pacific Conference, Seoul, South Korea.
+   - The 2024 FMA Asia Pacific Conference, Seoul, South Korea.
    - The 2024 UC Davis-FMA Napa Finance Conference, Napa Valley, CA, USA.
    - The 16th NYCU Finance Conference Keynote Speech, HsinChiu, Taiwan (Presented by Po-Hsuan Hsu).
    - The 23rd Taiwan Symposium on Innovation Economics and Entrepreneurship. 
@@ -41,7 +41,7 @@ Conference Papers
    - Seminars in National Taipei University and National Taiwan University
    - NBER productivity seminar, TPRI brownbag seminar, and the Max Planck Institute Innovation & Entrepreneurship seminar.(Presented by John. P Walsh).
 1. Hui-Ching Chuang, O-Chia Chuang, Jin Xu, and Ye Yang, _Simple HAR model based on the correlated intraday return patterns_,
-   - 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investments (2024FeAT),Taipei,Taiwan.
+   - 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investments,Taipei,Taiwan.
 1. Hui-Ching Chuang, O-Chia Chuang, Zaichao Du, and Zhenhong Huang. _Estimating the CARE system with possibly high-dimensional units_,
    - 第六届环亚太青年计量学者会议, Wuhan, China (*Present by O-Chia Chuang).
    - The 2020 International Conference of Taiwan Finance Association,Puli,Taiwan.
