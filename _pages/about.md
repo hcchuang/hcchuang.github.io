@@ -14,6 +14,7 @@ Research Interests
 ======
 Machine Learning Applications, Natural Language Processing. Econometrics and Investemnt.
 
+
 Publications
 ======
 1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin.(2024) Search symbols, trading performance, and investor participation, _International Review of Economics and Finance_,92,380-393
@@ -28,7 +29,7 @@ Conference Papers
 1. Hui-Ching Chuang and Po-Hsuan Hsu, Chung‐Ming Kuan ,and Jui-Chung Yang, _Revamping Firm Fixed Effects Models with Machine Learning-New Evidence from Recovering the Missing R&D-Patent Relation_,
    - The 2024 Asia/Pacific Conference,Seoul,South Korea.
    - The 2024 UC Davis-FMA Napa Finance Conference, Napa Valley, CA, USA.
-   - The 16th NYCU Finance Conference Keynote Speech,Hsin Chiu,Taiwan (Keynote Speech by Po-Hsuan Hsu).
+   - The 16th NYCU Finance Conference Keynote Speech,HsinChiu,Taiwan (Presented by Po-Hsuan Hsu).
    - The 23rd Taiwan Symposium on Innovation Economics and Entrepreneurship. 
 1. Hui-Ching Chuang, O-Chia Chuang, Jin Xu, and Ye Yang, _Simple HAR model based on the correlated intraday return patterns_,
    - 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investments (2024FeAT),Taipei,Taiwan.
