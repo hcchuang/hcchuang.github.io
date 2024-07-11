@@ -25,10 +25,10 @@ Publications
 
 Conference Papers
 ------
-1. Chuang, Hui-Ching and Hsu, Po-Hsuan and Kuan, Chung‐Ming and Yang, Jui-Chung, _Revamping Firm Fixed Effects Models with Machine Learning-New Evidence from Recovering the Missing R&D-Patent Relation_,
+1. Hui-Ching Chuang and Po-Hsuan Hsu, Chung‐Ming Kuan ,and Jui-Chung Yang, _Revamping Firm Fixed Effects Models with Machine Learning-New Evidence from Recovering the Missing R&D-Patent Relation_,
    The 2024 Asia/Pacific Conference,Seoul,South Korea. The 2024 UC Davis-FMA Napa Finance Conference ,Napa Valley, CA, USA. The 16th NYCU Finance Conference Keynote Speech,Hsin Chiu,Taiwan (*Present by Hsu Po Hsuan).Taiwan Econometric Society Annual Conference,Taipei,Taiwan
-1. Hui-Ching Chuang, O-Chia Chuang, Jin Xu, Ye Yang, _Simple HAR model based on the correlated intraday return patterns_, 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investments (2024FeAT),Taipei,Taiwan.
-1. Hui-Ching Chuang, Po-Hsuan Hsu, YouNa Lee, and Walsh John. P, _What Share of Patents Is Commercialized?,_ Taiwan Econometric Society Annual Conference,Taipei,Taiwan.
+1. Hui-Ching Chuang, O-Chia Chuang, Jin Xu, and Ye Yang, _Simple HAR model based on the correlated intraday return patterns_, 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investments (2024FeAT),Taipei,Taiwan.
+1. Hui-Ching Chuang, Po-Hsuan Hsu, YouNa Lee, and John. P Walsh, _What Share of Patents Is Commercialized?,_ Taiwan Econometric Society Annual Conference,Taipei,Taiwan.
 1. O-Chia Chuang, Hui-Ching Chuang, Zixuan Wang, and Jin Xu, _Profitability of Technical Trading Rules in the Chinese StockMarket: Data Snooping Bias Free Tests_, The 2022 TRIA-FeAT Joint Annual Meeting and International Conference on Risk, Insurance, and Financial Engineering,Taichung,Taiwan.
 1. Hui-Ching Chuang, O-Chia Chuang, Zaichao Du, and Zhenhong Huang. _Estimating the CARE system with possibly high-dimensional units_, 第六届环亚太青年计量学者会议,Wuhan/Online,China (*Present by O-Chia Chuang). The 2020 International Conference of Taiwan Finance Association,Puli,Taiwan. The 28thConference on the Theories and Practices of Securities and Financial Markets,Kaushung,Taiwan.
 1. Jui-Chung Yang, Chung-Ming Kuan, and Hui-Ching Chuang, _Machine Learning for Treatment Effect: An Applicationto the Big N Audit Quality Effect_, The 2019 Annual Meeting of the Financial Management Association International,New Orleans,USA. 
