@@ -13,7 +13,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 Publications
 ======
 1. Jui-Chung Yang, Hui-Ching Chuang, Chung-Ming Kuan. (2020) Double Machine Learning with Gradient Boosting and Its Application to the Big N Audit Quality Effect, _Journal of Econometrics_,216 (1),268-283
-1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin.(2024) Search symbols, trading performance, and investor participation, _International Review of Economics and Finance_,92,380-393
+1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin.(2024) Search Symbols, Trading Performance, and Investor Participation, _International Review of Economics and Finance_,92,380-393
 1. O-Chia Chuang, Hui-Ching Chuang, Zixuan Wang, and Jin Xu. (2024) Profitability of Technical Trading Rules in the Chinese Stock Market, _Pacific-Basin Finance Journal_,(84),102278
 1. Hui-Ching Chuang and Jauer Chen.(2023) Exploring Industry-Distress Effects on Loan Recovery: A Double Machine Learning Approach for Quantiles, _Econometrics_,(11),6
 1. Hui-Ching Chuang and Jui-Chung Yang.(2022) Dynamic Panel Data Estimators in Leverage Adjustments Model, _Advances in Financial Planning and Forecasting_,(10),67-111
@@ -35,9 +35,9 @@ Conference Papers
    - Contemporary Research in Business and Finance, Yuan Ze University and Banking Academy Vietnam.
    - Seminars in National Taipei University and National Taiwan University
    - NBER productivity seminar, TPRI brownbag seminar, and the Max Planck Institute Innovation & Entrepreneurship seminar.(Presented by John. P Walsh).
-1. Hui-Ching Chuang, O-Chia Chuang, Jin Xu, and Ye Yang, _Simple HAR model based on the correlated intraday return patterns_,
+1. Hui-Ching Chuang, O-Chia Chuang, Jin Xu, and Ye Yang, _Simple HAR Model Based on the Correlated Intraday Return Patterns_,
    - 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investments,Taipei,Taiwan.
-1. Hui-Ching Chuang, O-Chia Chuang, Zaichao Du, and Zhenhong Huang. _Estimating the CARE system with possibly high-dimensional units_,
+1. Hui-Ching Chuang, O-Chia Chuang, Zaichao Du, and Zhenhong Huang. _Estimating the CARE system with Possibly High-dimensional Units_,
    - 第六届环亚太青年计量学者会议, Wuhan, China (*Present by O-Chia Chuang).
    - The 2020 International Conference of Taiwan Finance Association,Puli,Taiwan.
    - The 28th Conference on the Theories and Practices of Securities and Financial Markets, Kaushung, Taiwan.
