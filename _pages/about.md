@@ -12,7 +12,7 @@ Hui-Ching Chuang is Associate Professor in the Department of Statistics, Nationa
 
 Research Interests
 ======
-Machine Learning Applications, Natural Language Processing on the IP
+Machine Learning Applications, Natural Language Processing. Econometrics and Investemnt.
 
 Publications
 ======
