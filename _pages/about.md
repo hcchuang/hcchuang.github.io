@@ -12,14 +12,14 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 
 Publications
 ======
-1. Jui-Chung Yang, Hui-Ching Chuang, Chung-Ming Kuan. (2020) Double Machine Learning with Gradient Boosting and Its Application to the Big N Audit Quality Effect, _Journal of Econometrics_,216 (1),268-283
-1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin.(2024) Search Symbols, Trading Performance, and Investor Participation, _International Review of Economics and Finance_,92,380-393
-1. O-Chia Chuang, Hui-Ching Chuang, Zixuan Wang, and Jin Xu. (2024) Profitability of Technical Trading Rules in the Chinese Stock Market, _Pacific-Basin Finance Journal_,(84),102278
-1. Hui-Ching Chuang and Jauer Chen.(2023) Exploring Industry-Distress Effects on Loan Recovery: A Double Machine Learning Approach for Quantiles, _Econometrics_,(11),6
-1. Hui-Ching Chuang and Jui-Chung Yang.(2022) Dynamic Panel Data Estimators in Leverage Adjustments Model, _Advances in Financial Planning and Forecasting_,(10),67-111
-1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin. (2021) The Effect of Language on Investing: Evidence from Searches in Chinese versus English, _Pacific-Basin Finance Journal_,(67),101553.
-1. Hui-Ching Chuang and Chung-Ming Kuan, Identifying and Assessing Superior Mutual Funds: An Application of the New Step-wise Data-Snooping-Bias Free Test, Review of Securities & Futures Markets,32(1),1-32.
-2. Hui-Ching Chuang and Chung-Ming Kuan, Testing the Performance of Taiwan Mutual Funds Based on the Tests without Data Snooping Bias,Review of Securities & Futures Markets,22(3),181-206.
+1. Jui-Chung Yang, Hui-Ching Chuang, Chung-Ming Kuan. (2020) Double Machine Learning with Gradient Boosting and Its Application to the Big N Audit Quality Effect, _Journal of Econometrics_,216 (1), 268-283
+1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin.(2024) Search Symbols, Trading Performance, and Investor Participation, _International Review of Economics and Finance_,92, 380-393
+1. O-Chia Chuang, Hui-Ching Chuang, Zixuan Wang, and Jin Xu. (2024) Profitability of Technical Trading Rules in the Chinese Stock Market, _Pacific-Basin Finance Journal_, (84), 102278
+1. Hui-Ching Chuang and Jauer Chen.(2023) Exploring Industry-Distress Effects on Loan Recovery: A Double Machine Learning Approach for Quantiles, _Econometrics_, (11), 6
+1. Hui-Ching Chuang and Jui-Chung Yang.(2022) Dynamic Panel Data Estimators in Leverage Adjustments Model, _Advances in Financial Planning and Forecasting_, (10), 67-111
+1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin. (2021) The Effect of Language on Investing: Evidence from Searches in Chinese versus English, _Pacific-Basin Finance Journal_, (67), 101553.
+1. Hui-Ching Chuang and Chung-Ming Kuan, Identifying and Assessing Superior Mutual Funds: An Application of the New Step-wise Data-Snooping-Bias Free Test, _Review of Securities & Futures Markets_, 32(1), 1-32.
+2. Hui-Ching Chuang and Chung-Ming Kuan, Testing the Performance of Taiwan Mutual Funds Based on the Tests without Data Snooping Bias, _Review of Securities & Futures Markets_, 22(3), 181-206.
 
 
 
