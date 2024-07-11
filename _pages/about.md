@@ -32,13 +32,13 @@ Conference Papers
    - The 2024 UC Davis-FMA Napa Finance Conference, Napa Valley, CA, USA.
    - The 16th NYCU Finance Conference Keynote Speech,HsinChiu,Taiwan (Presented by Po-Hsuan Hsu).
    - The 23rd Taiwan Symposium on Innovation Economics and Entrepreneurship. 
-1. Hui-Ching Chuang, O-Chia Chuang, Jin Xu, and Ye Yang, _Simple HAR model based on the correlated intraday return patterns_,
-   - 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investments (2024FeAT),Taipei,Taiwan.
 1. Hui-Ching Chuang, Po-Hsuan Hsu, YouNa Lee, and John. P Walsh, _What Share of Patents Is Commercialized?,_
    - Taiwan Econometric Society 2023 Annual Conference,Taipei,Taiwan.
    - Contemporary Research in Business and Finance, Yuan Ze University and Banking Academy Vietnam.
    - Seminar in National Taipei University and National Taiwan University
    - NBER productivity seminar, TPRI brownbag seminar, and the Max Planck Institute Innovation & Entrepreneurship seminar.(Presented by John. P Walsh).
+1. Hui-Ching Chuang, O-Chia Chuang, Jin Xu, and Ye Yang, _Simple HAR model based on the correlated intraday return patterns_,
+   - 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investments (2024FeAT),Taipei,Taiwan.
 1. Hui-Ching Chuang, O-Chia Chuang, Zaichao Du, and Zhenhong Huang. _Estimating the CARE system with possibly high-dimensional units_,
    - 第六届环亚太青年计量学者会议, Wuhan, China (*Present by O-Chia Chuang).
    - The 2020 International Conference of Taiwan Finance Association,Puli,Taiwan.
