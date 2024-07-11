@@ -38,7 +38,7 @@ Conference Papers
 1. Hui-Ching Chuang, O-Chia Chuang, Jin Xu, and Ye Yang, _Simple HAR Model Based on the Correlated Intraday Return Patterns_,
    - 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investments,Taipei,Taiwan.
 1. Hui-Ching Chuang, O-Chia Chuang, Zaichao Du, and Zhenhong Huang. _Estimating the CARE system with Possibly High-dimensional Units_,
-   - The 5th Young Econometricians of Asia Pacific Conference, Wuhan, China (*Present by O-Chia Chuang).
+   - The 6th Young Econometricians of Asia Pacific Conference, Wuhan, China (*Present by O-Chia Chuang).
    - The 2020 International Conference of Taiwan Finance Association,Puli,Taiwan.
    - The 28th Conference on the Theories and Practices of Securities and Financial Markets, Kaushung, Taiwan.
 1. Jui-Chung Yang, Chung-Ming Kuan, and Hui-Ching Chuang, _Machine Learning for Treatment Effect: An Applicationto the Big N Audit Quality Effect_,
