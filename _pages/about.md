@@ -13,24 +13,17 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 
 Conference Papers
 ======
-1. Hui-Ching Chuang and Po-Hsuan Hsu, Chung‐Ming Kuan, and Jui-Chung Yang, _Revamping Firm Fixed Effects Models with Machine Learning-New Evidence from Recovering the Missing R&D-Patent Relation_,
-   - The 2024 FMA Asia Pacific Conference, Seoul, South Korea.
-   - The 2024 UC Davis-FMA Napa Finance Conference, Napa Valley, CA, USA.
-   - The 16th NYCU Finance Conference Keynote Speech, HsinChiu, Taiwan (Presented by Po-Hsuan Hsu).
-   - The 23rd Taiwan Symposium on Innovation Economics and Entrepreneurship.
-1. Hui-Ching Chuang, Po-Hsuan Hsu, YouNa Lee, and John. P Walsh, _What Share of Patents Is Commercialized?,_
-   - NBER productivity seminar, TPRI brownbag seminar, and the Max Planck Institute Innovation & Entrepreneurship seminar.(Presented by John. P Walsh).
-   - Taiwan Econometric Society 2023 Annual Conference, Taipei, Taiwan.
-   - Seminars in National Taipei University, National Taiwan University, Contemporary Research in Business and Finance, Yuan Ze University and Banking Academy Vietnam.
-1. Hui-Ching Chuang and Chung-Ming Kuan, _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_,
-   - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS, Singapore.
-   - The 26th Conference on the Theories and Practices of Securities and Financial Markets, Kaushung, Taiwan.  
-1. Hui-Ching Chuang, O-Chia Chuang, Jin Xu, and Ye Yang, _Heterogeneous Autoregressive Model Based on Correlated Intraday Return Dynamic_,
-   - 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investments, Taipei, Taiwan.
-1. Hui-Ching Chuang, O-Chia Chuang, Zaichao Du, and Zhenhong Huang. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_,
-   - The 6th Young Econometricians of Asia Pacific Conference, Wuhan, China (*Present by O-Chia Chuang).
-   - The 2020 International Conference of Taiwan Finance Association, Puli, Taiwan.
-   - The 28th Conference on the Theories and Practices of Securities and Financial Markets, Kaushung, Taiwan.      
+1.  _Revamping Firm Fixed Effects Models with Machine Learning-New Evidence from Recovering the Missing R&D-Patent Relation_, (with Po-Hsuan Hsu, Chung‐Ming Kuan, and Jui-Chung Yang)
+   - The 2024 FMA Asia Pacific Conference/The 2024 UC Davis-FMA Napa Finance Conference/The 16th NYCU Finance Conference (Presented by Po-Hsuan Hsu)/The 23rd Taiwan Symposium on Innovation Economics and Entrepreneurship.
+1.  _What Share of Patents Is Commercialized?,_(with Po-Hsuan Hsu, YouNa Lee, and John. P Walsh)
+   - NBER productivity seminar, TPRI brownbag seminar, and the Max Planck Institute Innovation & Entrepreneurship seminar.(Presented by John. P Walsh)/Taiwan Econometric Society 2023 Annual Conference/Seminars in National Taipei University, National Taiwan University, Contemporary   
+     Research in Business and Finance, Yuan Ze University and Banking Academy Vietnam.
+1.  _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_,(with Chung-Ming Kuan)
+   - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS/The 26th Conference on the Theories and Practices of Securities and Financial Markets
+1.  _Heterogeneous Autoregressive Model Based on Correlated Intraday Return Dynamic_,(with O-Chia Chuang, Jin Xu, and Ye Yang)
+   - 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investment.
+1.  _Assessing Risk Spillovers with (Lasso) VAR for Expectile_,(with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
+   - The 6th Young Econometricians of Asia Pacific Conference (*Present by O-Chia Chuang)/- The 2020 International Conference of Taiwan Finance Association/The 28th Conference on the Theories and Practices of Securities and Financial Markets      
 
 Publications
 ======
