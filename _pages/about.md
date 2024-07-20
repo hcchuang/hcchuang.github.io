@@ -11,7 +11,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 
 
 
-Conference Papers
+WORKING PAPERS
 ======
 1.  _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John. P Walsh)
    -  TPRI Brownbag Seminar; NBER Productivity Seminar;The Max Planck Institute Innovation & Entrepreneurship Seminar (Presented by John. P Walsh); The Taiwan Econometric Society 2023 Annual Conference; Seminars in National Taipei University, National Taiwan University, Contemporary Research in Business and Finance of Yuan Ze University and Banking Academy Vietnam.
@@ -24,7 +24,7 @@ Conference Papers
 1.  _Assessing Risk Spillovers with (Lasso) VAR for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
    - The 6th Young Econometricians of Asia Pacific Conference (Presented by O-Chia Chuang); The 2020 International Conference of Taiwan Finance Association; The 28th Conference on the Theories and Practices of Securities and Financial Markets.      
 
-Publications
+PUBLISHED PAPERS
 ======
 1. Jui-Chung Yang, Hui-Ching Chuang, and Chung-Ming Kuan. (2020) Double Machine Learning with Gradient Boosting and Its Application to the Big N Audit Quality Effect, _Journal of Econometrics_, 216 (1), 268-283
 1. O-Chia Chuang, Hui-Ching Chuang, Zixuan Wang, and Jin Xu. (2024) Profitability of Technical Trading Rules in the Chinese Stock Market, _Pacific-Basin Finance Journal_, (84), 102278
