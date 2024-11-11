@@ -15,7 +15,7 @@ WORKING PAPERS
 ======
 1.  _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John. P Walsh)
    -  TPRI Brownbag Seminar; NBER Productivity Seminar; The Max Planck Institute Innovation & Entrepreneurship Seminar (Presented by John. P Walsh); The Taiwan Econometric Society 2023 Annual Conference; Seminars in RCHSS of Academia Sinica, Finance Department of National Taiwan University, Statistics Department of National Taipei University,  Contemporary Research in Business and Finance of Yuan Ze University and Banking Academy Vietnam.
-1.  _Revamping Firm Fixed Effects Models with Machine Learning-New Evidence from Recovering the Missing R&D-Patent Relation_ (with Po-Hsuan Hsu, Chung‐Ming Kuan, and Jui-Chung Yang)
+1.  _Limitation of Firm Fixed Effects Models and the Missing R\&D-Patent Relation: New Methods and Evidence_ (with Po-Hsuan Hsu, Chung‐Ming Kuan, and Jui-Chung Yang)
    - The SFS Cavalcade Asia-Pacific 2024 (Scheduled); The 2024 UC Davis-FMA Napa Finance Conference; The 23rd Taiwan Symposium on Innovation Economics and Entrepreneurship; The 2024 FMA Asia Pacific Conference (Presented by Jui-Chung Yang); The 16th NYCU Finance Conference (Presented by Po-Hsuan Hsu).
 1.  _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_ (with Chung-Ming Kuan)
    - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS; The 26th Conference on the Theories and Practices of Securities and Financial Markets.
