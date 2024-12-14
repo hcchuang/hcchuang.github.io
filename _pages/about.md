@@ -14,7 +14,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 WORKING PAPERS
 ======
 1.  _Limitation of Firm Fixed Effects Models and the Missing R&D-Patent Relation: New Methods and Evidence_ (with Po-Hsuan Hsu, Chung‐Ming Kuan, and Jui-Chung Yang)
-   - The SFS Cavalcade Asia-Pacific 2024; The 2024 UC Davis-FMA Napa Finance Conference; The 23rd Taiwan Symposium on Innovation Economics and Entrepreneurship; NTU; Max Planck I&E Seminar\*; The 16th NYCU Finance Conference Kynote Speech\*; Academia Sinica\*\*; The 2024 FMA Asia Pacific Conference\*\*. (Presented by \*Po-Hsuan Hsu and \*\*Jui-Chung Yang).
+   - The SFS Cavalcade Asia-Pacific 2024; The 2024 UC Davis-FMA Napa Finance Conference; The 23rd Taiwan Symposium on Innovation Economics and Entrepreneurship; NTU; Max Planck I&E Seminar\*; The 16th NYCU Finance Conference Keynote Speech\*; Academia Sinica\*\*; The 2024 FMA Asia Pacific Conference\*\*. (Presented by \*Po-Hsuan Hsu and \*\*Jui-Chung Yang).
 1.  _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John. P Walsh)
    -  TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; Contemporary Research in Business and Finance of Yuan Ze University and Banking Academy Vietnam. (\*Presented by John. P Walsh)
 1.  _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_ (with Chung-Ming Kuan)
