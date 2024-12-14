@@ -18,7 +18,7 @@ WORKING PAPERS
 1.  _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John. P Walsh)
    -  TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; Contemporary Research in Business and Finance of Yuan Ze University and Banking Academy Vietnam. (\*Presented by John. P Walsh)
 1.  _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_ (with Chung-Ming Kuan)
-   - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS; The 26th Conference on the Theories and Practices of Securities and Financial Markets.
+   - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS, Singapore; The 26th Conference on the Theories and Practices of Securities and Financial Markets.
 1.  _Heterogeneous Autoregressive Model Based on Correlated Intraday Return Dynamic_ (with O-Chia Chuang, Jin Xu, and Ye Yang)
    - The 18th NYCU International Finance Conference, The 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investment.
 1.  _Assessing Risk Spillovers with (Lasso) VAR for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
