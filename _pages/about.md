@@ -20,9 +20,9 @@ WORKING PAPERS
 1.  _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_ (with Chung-Ming Kuan)
    - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS, Singapore; The 26th Conference on the Theories and Practices of Securities and Financial Markets.
 1.  _Heterogeneous Autoregressive Model Based on Correlated Intraday Return Dynamic_ (with O-Chia Chuang, Jin Xu, and Ye Yang)
-   - The 18th NYCU International Finance Conference, The 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investment.
+   - The 18th NYCU International Finance Conference; The 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investment.
 1.  _Assessing Risk Spillovers with (Lasso) VAR for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
-   - The 2020 International Conference of Taiwan Finance Association; The 28th Conference on the Theories and Practices of Securities and Financial Markets; The 6th Young Econometricians of Asia Pacific Conference\* (Presented by \*O-Chia Chuang)      
+   - The 2020 International Conference of Taiwan Finance Association; The 28th Conference on the Theories and Practices of Securities and Financial Markets; The 6th Young Econometricians of Asia Pacific Conference\*. (Presented by \*O-Chia Chuang)      
 
 PUBLISHED PAPERS
 ======
