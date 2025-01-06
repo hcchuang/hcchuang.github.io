@@ -19,14 +19,11 @@ WORKING PAPERS
 
    - The SFS Cavalcade Asia-Pacific 2024; The 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&E Seminar\*; The 16th NYCU Finance Conference Keynote Speech\* ; The 2024 FMA Asia Pacific Conference\*\*. (Presented by \*Po-Hsuan Hsu)
 
-
-
 2. _What Share of Patents Is Commercialized?_(with Po-Hsuan Hsu, You-Na Lee, and John. P Walsh)  
 
    This paper applies machine learning and advanced natural language processing techniques to estimate the probabilities of commercial use of patents, over time at scale. We combine three surveys of inventors reporting on US patents as independently labeled training data, and use a combination of contextual embedding codings of the patent text and bibliometric indicators from the patent documents to develop machine learning models to predict the probabilities of commercial use for patented inventions.
 
    - TPRI Brownbag Seminar\* ; - NBER Productivity Seminar\*; Max Planck I&E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU (\*Presented by John. P Walsh)
-
 
 3. _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_(with Chung-Ming Kuan)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912348){:target="_blank"}
 
