@@ -21,7 +21,7 @@ WORKING PAPERS
 
 2. _What Share of Patents Is Commercialized?_(with Po-Hsuan Hsu, You-Na Lee, and John. P Walsh)  
 
-   This paper applies machine learning and advanced natural language processing techniques to estimate the probabilities of commercial use of patents, over time at scale. We combine three surveys of inventors reporting on US patents as independently labeled training data, and use a combination of contextual embedding codings of the patent text and bibliometric indicators from the patent documents to develop machine learning models to predict the probabilities of commercial use for patented inventions.
+   This paper applies machine learning and advanced natural language processing techniques to estimate the probabilities of commercial use of patents, over time at scale. We combine three surveys of inventors reporting on US patents as independently labeled training data, and use a combination of contextual embedding codings of the patent text and bibliometric indicators from the patent documents to develop machine learning models for patented inventions.
 
    - TPRI Brownbag Seminar\* ; NBER Productivity Seminar\*; Max Planck I&E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU (\*Presented by John. P Walsh)
 
@@ -33,7 +33,7 @@ WORKING PAPERS
 
 5. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_(with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
 
-   This paper extends the vector autoregressive (VAR) model for conditional means to VAR for conditional expectiles (MCARE) to assess the risk spillovers among multiple units. We further generalize MCARE to high-dimensional cases by imposing an L1-penalization (L-MCARE). As an empirical application, we apply MCARE and L-MCARE to the 2020 list of global systemically important banks.
+   This paper extends the vector autoregressive (VAR) model for conditional means to VAR for conditional expectiles (MCARE) to assess the risk spillovers among multiple units. We further generalize MCARE to high-dimensional cases by imposing an L1-penalization (L-MCARE). As an empirical application, we apply MCARE and L-MCARE to the list of global systemically important banks.
 
 
 PUBLISHED PAPERS
