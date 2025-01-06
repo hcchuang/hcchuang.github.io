@@ -13,37 +13,41 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 
 WORKING PAPERS
 ======
- _Limitation of Firm Fixed Effects Models and the Missing R&D-Patent Relation: New Methods and Evidence_ (with Po-Hsuan Hsu, Chung‐Ming Kuan, and Jui-Chung Yang) [\[ssrn\]](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846>){:target="_blank"} [\[slide\]](/files/CavalcadeAP2024_slide.pdf){:target="_blank"} 
- 
-  
-  The common practice to include firm fixed effects in empirical research may eliminate the explanatory power of important economic factors that are persistent. We use the intuitive R&Dpatent relation to illustrate this point. Our review of recent studies suggests a surprising pattern that R&D input only positively explains patent output in half of prior regression estimations. This "missing link" can be attributed to the persistence of R&D and patents that causes the between-firm variation to be absorbed by firm fixed effects. We consider adjusted Hausman-Taylor estimates and advanced machine learning methods, and find that both methods lead to a clear positive R&Dpatent relation. In particular, advanced machine learning methods suggest that only 10-20% of firm dummies are informative for the R&D-patent relation and that including other non-informative firm dummies may bias the identification. This paper thus offers two ready-to-use econometric methods to serve as a "second opinion" for empirical researchers working with explanatory variables that strongly correlate with between-individual unobservables.
+1. _Limitation of Firm Fixed Effects Models and the Missing R&D-Patent Relation: New Methods and Evidence_  
+   (with Po-Hsuan Hsu, Chung‐Ming Kuan, and Jui-Chung Yang)  
+   [\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846){:target="_blank"} 
+   [\[slide\]](/files/CavalcadeAP2024_slide.pdf){:target="_blank"}  
 
- - The SFS Cavalcade Asia-Pacific 2024; The 2024 UC Davis-FMA Napa Finance Conference; The 23rd Taiwan Symposium on Innovation Economics and Entrepreneurship; NTU; Max Planck I&E Seminar\*; The 16th NYCU Finance Conference Keynote Speech\*; Academia Sinica\*\*; The 2024 FMA Asia Pacific Conference\*\*. (Presented by \*Po-Hsuan Hsu).
+   The common practice to include firm fixed effects in empirical research may eliminate the explanatory power of important economic factors that are persistent. We use the intuitive R&D–patent relation to illustrate this point. Our review of recent studies suggests a surprising pattern that R&D input only positively explains patent output in half of prior regression estimations. This "missing link" can be attributed to the persistence of R&D and patents that causes the between-firm variation to be absorbed by firm fixed effects. We consider adjusted Hausman–Taylor estimates and advanced machine learning methods, and find that both methods lead to a clear positive R&D–patent relation. In particular, advanced machine learning methods suggest that only 10–20% of firm dummies are informative for the R&D–patent relation and that including other non-informative firm dummies may bias the identification. This paper thus offers two ready-to-use econometric methods to serve as a "second opinion" for empirical researchers working with explanatory variables that strongly correlate with between-individual unobservables.
 
-_What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John. P Walsh)
+   - The SFS Cavalcade Asia-Pacific 2024; The 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&E Seminar\*; The 16th NYCU Finance Conference Keynote Speech\* ; The 2024 FMA Asia Pacific Conference\*\*. (Presented by \*Po-Hsuan Hsu)
 
-This paper applies machine learning and advanced natural language processing techniques to estimate the probabilities of commercial use of patents, over time at scale. We combine three surveys of inventors reporting on US patents as independently labeled training data, and use a combination of contextual embedding codings of the patent text and bibliometric indicators from the patent documents to develop machine learning models to predict the probabilities of commercial use for patented inventions.
+---
 
-  -  TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU (\*Presented by John. P Walsh)
+2. _What Share of Patents Is Commercialized?_  
+   (with Po-Hsuan Hsu, You-Na Lee, and John. P Walsh)  
 
- _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_ (with Chung-Ming Kuan) [\[ssrn\]](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912348>){:target="_blank"}
+   This paper applies machine learning and advanced natural language processing techniques to estimate the probabilities of commercial use of patents, over time at scale. We combine three surveys of inventors reporting on US patents as independently labeled training data, and use a combination of contextual embedding codings of the patent text and bibliometric indicators from the patent documents to develop machine learning models to predict the probabilities of commercial use for patented inventions.
 
-This paper applies machine learning to classify hedge funds into systematic and discretionary
-categories. Leveraging textual analysis and advanced methods, our approach eliminates subjective judgment in analyzing investment strategies. We find that systematically classified funds, on av-
-erage, yield higher excess returns than discretionary ones. Additionally, after applying the false discovery rate test for linear asset pricing models, a higher portion of positive alpha is observed in
-the systematic category. The alpha average for outperforming systematic funds surpasses that of
-discretionary funds across various risk factor models.
+   - TPRI Brownbag Seminar\* ; - NBER Productivity Seminar\*; Max Planck I&E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU (\*Presented by John. P Walsh)
 
+---
 
- <!--   - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS, Singapore; The 26th Conference on the Theories and Practices of Securities and Financial Markets.-->
- <!--  1.  _Heterogeneous Autoregressive Model Based on Correlated Intraday Return Dynamic_ (with O-Chia Chuang, Jin Xu, and Ye Yang)-->
- <!--   - The 18th NYCU International Finance Conference; The 2024 FeAT International Conference on Artificial Intelligence, Green Finance, and Investment.-->
+3. _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_  
+   (with Chung-Ming Kuan)  
+   [\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912348){:target="_blank"}
 
- _Assessing Risk Spillovers with (Lasso) VAR for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
+   This paper applies machine learning to classify hedge funds into systematic and discretionary categories. Leveraging textual analysis and advanced methods, our approach eliminates subjective judgment in analyzing investment strategies. We find that systematically classified funds, on average, yield higher excess returns than discretionary ones. Additionally, after applying the false discovery rate test for linear asset pricing models, a higher portion of positive alpha is observed in the systematic category. The alpha average for outperforming systematic funds surpasses that of discretionary funds across various risk factor models.
 
-This paper extends the vector autoregressive (VAR) model for conditional means to VAR for conditional expectiles (MCARE) to assess the risk spillovers among multiple units. We further generalize MCARE to high-dimensional cases by imposing an L1-penalization (L-MCARE). As an empirical application, we apply MCARE and L-MCARE to the 2020 list of global systemically important banks.
- 
- <!--   - The 2020 International Conference of Taiwan Finance Association; The 28th Conference on the Theories and Practices of Securities and Financial Markets; The 6th Young Econometricians of Asia Pacific Conference\*. (Presented by \*O-Chia Chuang)    -->  
+  - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS, Singapore; 
+
+---
+
+4. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_  
+   (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
+
+   This paper extends the vector autoregressive (VAR) model for conditional means to VAR for conditional expectiles (MCARE) to assess the risk spillovers among multiple units. We further generalize MCARE to high-dimensional cases by imposing an L1-penalization (L-MCARE). As an empirical application, we apply MCARE and L-MCARE to the 2020 list of global systemically important banks.
+
 
 PUBLISHED PAPERS
 ======
