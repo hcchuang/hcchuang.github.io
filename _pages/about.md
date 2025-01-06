@@ -22,7 +22,7 @@ WORKING PAPERS
 
    - The SFS Cavalcade Asia-Pacific 2024; The 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&E Seminar\*; The 16th NYCU Finance Conference Keynote Speech\* ; The 2024 FMA Asia Pacific Conference\*\*. (Presented by \*Po-Hsuan Hsu)
 
----
+
 
 2. _What Share of Patents Is Commercialized?_  
    (with Po-Hsuan Hsu, You-Na Lee, and John. P Walsh)  
@@ -31,7 +31,6 @@ WORKING PAPERS
 
    - TPRI Brownbag Seminar\* ; - NBER Productivity Seminar\*; Max Planck I&E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU (\*Presented by John. P Walsh)
 
----
 
 3. _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_  
    (with Chung-Ming Kuan)  
@@ -41,7 +40,7 @@ WORKING PAPERS
 
   - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS, Singapore; 
 
----
+
 
 4. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_  
    (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
