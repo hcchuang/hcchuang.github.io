@@ -25,7 +25,7 @@ WORKING PAPERS
 
    
 
-3. _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_(with Chung-Ming Kuan)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912348){:target="_blank"}. <small> Quantitative Finance Workshop 3: Asset Pricing and Risk Management, IMS, NUS, Singapore. The 26th Conference on the Theories and Practices of Securities and Financial Markets. </small> 
+3. _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_(with Chung-Ming Kuan) [\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912348){:target="_blank"}. <small> Quantitative Finance Workshop 3: Asset Pricing and Risk Management, IMS, NUS, Singapore. The 26th Conference on the Theories and Practices of Securities and Financial Markets. </small> 
 
    This paper applies machine learning to classify hedge funds into systematic and discretionary categories. Leveraging textual analysis and advanced methods, our approach eliminates subjective judgment in analyzing investment strategies. We find that systematically classified funds, on average, yield higher excess returns than discretionary ones. Additionally, after applying the false discovery rate test for linear asset pricing models, a higher portion of positive alpha is observed in the systematic category. The alpha average for outperforming systematic funds surpasses that of discretionary funds across various risk factor models.
 
