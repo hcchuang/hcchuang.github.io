@@ -30,7 +30,7 @@ WORKING PAPERS
    This paper applies machine learning to classify hedge funds into systematic and discretionary categories. Leveraging textual analysis and advanced methods, our approach eliminates subjective judgment in analyzing investment strategies. We find that systematically classified funds, on average, yield higher excess returns than discretionary ones. Additionally, after applying the false discovery rate test for linear asset pricing models, a higher portion of positive alpha is observed in the systematic category. The alpha average for outperforming systematic funds surpasses that of discretionary funds across various risk factor models.
 
   
-4. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_(with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
+4. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_(with O-Chia Chuang, Zaichao Du, and Zhenhong Huang) <small> The 28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; The 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (Presented by *O-Chia Chuang) </small>  
    
    This paper extends the vector autoregressive (VAR) model for conditional means to VAR for conditional expectiles (MCARE) to assess the risk spillovers among multiple units. We further generalize MCARE to high-dimensional cases by imposing an L1-penalization (L-MCARE). As an empirical application, we apply MCARE and L-MCARE to the list of global systemically important banks.
 
