@@ -23,15 +23,15 @@ WORKING PAPERS
 
    This paper applies machine learning and advanced natural language processing techniques to estimate the probabilities of commercial use of patents, over time at scale. We combine three surveys of inventors reporting on US patents as independently labeled training data, and use a combination of contextual embedding codings of the patent text and bibliometric indicators from the patent documents to develop machine learning models to predict the probabilities of commercial use for patented inventions.
 
-   - TPRI Brownbag Seminar\* ; - NBER Productivity Seminar\*; Max Planck I&E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU (\*Presented by John. P Walsh)
+   - TPRI Brownbag Seminar\* ; NBER Productivity Seminar\*; Max Planck I&E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU (\*Presented by John. P Walsh)
 
 3. _Machine Learning in Hedge Fund Classification: Systematic vs. Discretionary Strategies and Their Performance Implications_(with Chung-Ming Kuan)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912348){:target="_blank"}
 
    This paper applies machine learning to classify hedge funds into systematic and discretionary categories. Leveraging textual analysis and advanced methods, our approach eliminates subjective judgment in analyzing investment strategies. We find that systematically classified funds, on average, yield higher excess returns than discretionary ones. Additionally, after applying the false discovery rate test for linear asset pricing models, a higher portion of positive alpha is observed in the systematic category. The alpha average for outperforming systematic funds surpasses that of discretionary funds across various risk factor models.
 
-  - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS, Singapore; 
+   - Quantitative Finance Workshop 3: Asset Pricing and Risk Management, Institute for Mathematical Science, NUS, Singapore; 
 
-4. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_(with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
+5. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_(with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)
 
    This paper extends the vector autoregressive (VAR) model for conditional means to VAR for conditional expectiles (MCARE) to assess the risk spillovers among multiple units. We further generalize MCARE to high-dimensional cases by imposing an L1-penalization (L-MCARE). As an empirical application, we apply MCARE and L-MCARE to the 2020 list of global systemically important banks.
 
