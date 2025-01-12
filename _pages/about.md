@@ -25,7 +25,7 @@ WORKING PAPERS
       
 3. _What Share of Patents Is Commercialized?_(with Po-Hsuan Hsu, You-Na Lee, and John. P Walsh) <small> TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (*Presented by John. P Walsh)</small>  
 
-   This paper applies machine learning and advanced natural language processing techniques to estimate the probabilities of commercial use of patents, over time at scale. We combine three surveys of inventors reporting on US patents as independently labeled training data, and use a combination of contextual embedding codings of the patent text and bibliometric indicators from the patent documents to develop machine learning models for patented inventions
+   This paper applies machine learning and advanced natural language processing techniques to estimate the probabilities of commercial use of patents, over time at scale. We combine three surveys of inventors reporting on US patents as independently labeled training data, and use a combination of contextual embedding codings of the patent text and bibliometric indicators from the patent documents to develop machine learning models for patented inventions.
 
    
 4. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_(with O-Chia Chuang, Zaichao Du, and Zhenhong Huang) <small> The 28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; The 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (Presented by *O-Chia Chuang) </small>  
@@ -33,13 +33,14 @@ WORKING PAPERS
    This paper extends the vector autoregressive (VAR) model for conditional means to VAR for conditional expectiles (MCARE) to assess the risk spillovers among multiple units. We further generalize MCARE to high-dimensional cases by imposing an L1-penalization (L-MCARE). As an empirical application, we apply MCARE and L-MCARE to the list of global systemically important banks.
 
 
+
 PUBLISHED PAPERS
 ======
-1. Jui-Chung Yang, Hui-Ching Chuang, and Chung-Ming Kuan. (2020) Double Machine Learning with Gradient Boosting and Its Application to the Big N Audit Quality Effect, _Journal of Econometrics_, 216 (1), 268-283
-1. O-Chia Chuang, Hui-Ching Chuang, Zixuan Wang, and Jin Xu. (2024) Profitability of Technical Trading Rules in the Chinese Stock Market, _Pacific-Basin Finance Journal_, (84), 102278
-1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin. (2024) Search Symbols, Trading Performance, and Investor Participation, _International Review of Economics and Finance_, 92, 380-393
+1. Jui-Chung Yang, Hui-Ching Chuang, and Chung-Ming Kuan. (2020) Double Machine Learning with Gradient Boosting and Its Application to the Big N Audit Quality Effect, _Journal of Econometrics_, 216 (1), 268-283.
+1. O-Chia Chuang, Hui-Ching Chuang, Zixuan Wang, and Jin Xu. (2024) Profitability of Technical Trading Rules in the Chinese Stock Market, _Pacific-Basin Finance Journal_, (84), 102278.
+1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin. (2024) Search Symbols, Trading Performance, and Investor Participation, _International Review of Economics and Finance_, 92, 380-393.
 1. Yin-Siang Huang, Hui-Ching Chuang, Iftekhar Hasan, and Chih-Yung Lin. (2021) The Effect of Language on Investing: Evidence from Searches in Chinese versus English, _Pacific-Basin Finance Journal_, (67), 101553.
 1. Hui-Ching Chuang and Chung-Ming Kuan. (2020) Identifying and Assessing Superior Mutual Funds: An Application of the New Step-wise Data-Snooping-Bias Free Test, _Review of Securities & Futures Markets_, 32(1), 1-32.
 2. Hui-Ching Chuang and Chung-Ming Kuan. (2010) Testing the Performance of Taiwan Mutual Funds Based on the Tests without Data Snooping Bias, _Review of Securities & Futures Markets_, 22(3), 181-206.
-1. Hui-Ching Chuang and Jauer Chen. (2023) Exploring Industry-Distress Effects on Loan Recovery: A Double Machine Learning Approach for Quantiles, _Econometrics_, (11), 6
-1. Hui-Ching Chuang and Jui-Chung Yang.(2022) Dynamic Panel Data Estimators in Leverage Adjustments Model, _Advances in Financial Planning and Forecasting_, (10), 67-111
+1. Hui-Ching Chuang and Jauer Chen. (2023) Exploring Industry-Distress Effects on Loan Recovery: A Double Machine Learning Approach for Quantiles, _Econometrics_, (11), 6.
+1. Hui-Ching Chuang and Jui-Chung Yang.(2022) Dynamic Panel Data Estimators in Leverage Adjustments Model, _Advances in Financial Planning and Forecasting_, (10), 67-111.
