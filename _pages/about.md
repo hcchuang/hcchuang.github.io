@@ -46,9 +46,7 @@ applications, natural language processing, econometrics, and investment.
 
 2. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_  
    (with Chung-Ming Kuan)[\[paper\]](/files/ManMachineHFR_20250420.pdf){:target="_blank"}[\[slide\]](/files/ManMachineHFR_slide.pdf)  
-   <small>European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small>
-
-   <details>
+   <small>European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small> <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
        We fine-tune FinBERT, a finance-specific large language model, to classify
