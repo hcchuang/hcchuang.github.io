@@ -19,10 +19,7 @@ details summary::-webkit-details-marker { display:none; }
 
 </style>
 
-Hui-Ching Chuang is an Associate Professor in the Department of Statistics at
-National Taipei University. Her research interests encompass machine learning
-applications, natural language processing, econometrics, and investment.
-[\[cv\]](/files/cv_hcc_202505.pdf){:target="_blank"}
+Hui-Ching Chuang is an Associate Professor in the Department of Statistics at National Taipei University. Her research interests include econometrics and investment, with a focus on applying machine learning and natural language processing techniques.[\[cv\]](/files/cv_hcc_202505.pdf){:target="_blank"}
 
 ## WORKING PAPERS
 1. _Revisiting the Missing R&D-Patent Relation: Challenges and Solutions for Firm Fixed Effects Models_ (with Po-Hsuan Hsu, Chung-Ming Kuan, and Jui-Chung Yang)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846){:target="_blank"}[\[slide\]](/files/MissingRDPatentFE_Slide.pdf){:target="_blank"}[\[code\]](https://github.com/hcchuang/Revisiting-the-Missing-RD-Patent-Relation_Challenges-and-Solutions-for-Firm-Fixed-Effects-Models){:target="_blank"}  
