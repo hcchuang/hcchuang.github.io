@@ -61,7 +61,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
    </details>
 
 4. _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John P. Walsh)  
-   <small>TPRI Brownbag Seminar*; NBER Productivity Seminar*; Max Planck I&amp;E Seminar*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (*Presented by John P. Walsh)</small>
+   <small>TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&amp;E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (\*Presented by John P. Walsh)</small>
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
@@ -75,7 +75,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
    </details>
 
 5. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
-   <small>28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; 6th Annual Meeting of Young Econometricians in Asia-Pacific*. (Presented by <em>O-Chia Chuang</em>)</small>
+   <small>28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\*Presented by <em>O-Chia Chuang</em>)</small>
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
