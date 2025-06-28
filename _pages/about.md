@@ -13,12 +13,7 @@ details .abstract-body {
   margin-left: 1.5rem;       /* ← change indent here if desired */
 }
 
-/* optional polish: pointer cursor + custom triangles */
-details summary          { cursor:pointer; list-style:none; }
-details summary::-webkit-details-marker { display:none; }
-details summary::before  { content:"▶ "; transition:transform .2s; }
-details[open] summary::before { content:"▼ "; }
-</style>
+
 
 
 Hui-Ching Chuang is an Associate Professor in the Department of Statistics at National Taipei University. Her research interests encompass machine learning applications, natural language processing, econometrics, and investment.  [\[cv\]](/files/cv_hcc_202505.pdf){:target="_blank"}
@@ -29,7 +24,8 @@ WORKING PAPERS
 ======
 1. _Revisiting the Missing R&D-Patent Relation: Challenges and Solutions for Firm Fixed Effects Models_(with Po-Hsuan Hsu, Chung‐Ming Kuan, and Jui-Chung Yang) [\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846){:target="_blank"} [\[slide\]](/files/MissingRDPatentFE_Slide.pdf){:target="_blank"}[\[code\]](https://github.com/hcchuang/Revisiting-the-Missing-RD-Patent-Relation_Challenges-and-Solutions-for-Firm-Fixed-Effects-Models){:target="_blank"}<small> The SFS Cavalcade Asia-Pacific 2024; The 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&E Seminar\*; The 16th NYCU Finance Conference Keynote Speech\*; The 2024 FMA Asia Pacific Conference**. (Presented by *Po-Hsuan Hsu)</small>  
  <details>
-     <summary><strong>Abstract (click to expand)</strong></summary>
+     <summary><strong>Abstract&nbsp;(click&nbsp;to&nbsp;expand)</strong></summary>
+
      <div class="abstract-body">
    The common practice to include firm fixed effects in empirical research may eliminate the explanatory power of important economic factors that are persistent. We use the intuitive R&D–patent relation to illustrate this point. Our review of recent studies suggests a surprising pattern that R&D input only positively explains patent output in half of prior regression estimations. This "missing link" can be attributed to the persistence of R&D and patents that causes the between-firm variation to be absorbed by firm fixed effects. We consider adjusted Hausman–Taylor estimates and advanced machine learning methods, and find that both methods lead to a clear positive R&D–patent relation. In particular, advanced machine learning methods suggest that only 10–20% of firm dummies are informative for the R&D–patent relation and that including other non-informative firm dummies may bias the identification. This paper thus offers two ready-to-use econometric methods to serve as a "second opinion" for empirical researchers working with explanatory variables that strongly correlate with between-individual unobservables.
 </div>
