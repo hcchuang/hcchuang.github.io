@@ -25,7 +25,7 @@ applications, natural language processing, econometrics, and investment.
 [\[cv\]](/files/cv_hcc_202505.pdf){:target="_blank"}
 
 ## WORKING PAPERS
-1. _Revisiting the Missing R&D-Patent Relation: Challenges and Solutions for Firm Fixed Effects Models_(with Po-Hsuan Hsu, Chung-Ming Kuan, and Jui-Chung Yang)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846){:target="_blank"}[\[slide\]](/files/MissingRDPatentFE_Slide.pdf){:target="_blank"}[\[code\]](https://github.com/hcchuang/Revisiting-the-Missing-RD-Patent-Relation_Challenges-and-Solutions-for-Firm-Fixed-Effects-Models){:target="_blank"}  
+1. _Revisiting the Missing R&D-Patent Relation: Challenges and Solutions for Firm Fixed Effects Models_ (with Po-Hsuan Hsu, Chung-Ming Kuan, and Jui-Chung Yang)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846){:target="_blank"}[\[slide\]](/files/MissingRDPatentFE_Slide.pdf){:target="_blank"}[\[code\]](https://github.com/hcchuang/Revisiting-the-Missing-RD-Patent-Relation_Challenges-and-Solutions-for-Firm-Fixed-Effects-Models){:target="_blank"}  
    <small>The SFS Cavalcade Asia-Pacific 2024; 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&amp;E Seminar*; 16th NYCU Finance Conference (Keynote)*; 2024 FMA Asia Pacific Conference**. (Presented by <em>Po-Hsuan Hsu</em>)</small>
    <details>
      <summary>Abstract</summary>
@@ -48,8 +48,7 @@ applications, natural language processing, econometrics, and investment.
     </div>
    </details>
 
-2. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_  
-   (with Chung-Ming Kuan)[\[paper\]](/files/ManMachineHFR_20250420.pdf){:target="_blank"}[\[slide\]](/files/ManMachineHFR_slide.pdf)  
+2. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_ (with Chung-Ming Kuan)[\[paper\]](/files/ManMachineHFR_20250420.pdf){:target="_blank"}[\[slide\]](/files/ManMachineHFR_slide.pdf)  
    <small>European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small>
    <details>
      <summary>Abstract</summary>
@@ -64,7 +63,7 @@ applications, natural language processing, econometrics, and investment.
      </div>
    </details>
 
-4. _What Share of Patents Is Commercialized?_(with Po-Hsuan Hsu, You-Na Lee, and John P. Walsh)  
+4. _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John P. Walsh)  
    <small>TPRI Brownbag Seminar*; NBER Productivity Seminar*; Max Planck I&amp;E Seminar*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (*Presented by John P. Walsh)</small>
    <details>
      <summary>Abstract</summary>
@@ -78,7 +77,7 @@ applications, natural language processing, econometrics, and investment.
      </div>
    </details>
 
-5. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_(with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
+5. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
    <small>28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; 6th Annual Meeting of Young Econometricians in Asia-Pacific*. (Presented by <em>O-Chia Chuang</em>)</small>
    <details>
      <summary>Abstract</summary>
