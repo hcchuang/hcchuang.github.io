@@ -108,7 +108,6 @@ applications, natural language processing, econometrics, and investment.
 
 6. Hui-Ching Chuang and Chung-Ming Kuan (2010).“Testing the Performance of Taiwan Mutual Funds Based on the Tests without Data-Snooping Bias.”_Review of Securities &amp; Futures Markets_, 22 (3), 181-206.  
 
-7. Hui-Ching Chuang and Jauer Chen (2023).“Exploring Industry-Distress Effects on Loan Recovery: A Double Machine Learning Approach for Quantiles.”  
-   _Econometrics_, 11 (6).  
+7. Hui-Ching Chuang and Jauer Chen (2023).“Exploring Industry-Distress Effects on Loan Recovery: A Double Machine Learning Approach for Quantiles.”_Econometrics_, 11 (6).  
 
 8. Hui-Ching Chuang and Jui-Chung Yang (2022).“Dynamic Panel Data Estimators in Leverage Adjustments Model.”_Advances in Financial Planning and Forecasting_, 10, 67-111.
