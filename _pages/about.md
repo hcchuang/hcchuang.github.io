@@ -28,11 +28,11 @@ applications, natural language processing, econometrics, and investment.
 1. _Revisiting the Missing R&D-Patent Relation: Challenges and Solutions for Firm Fixed Effects Models_(with Po-Hsuan Hsu, Chung-Ming Kuan, and Jui-Chung Yang)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846){:target="_blank"}[\[slide\]](/files/MissingRDPatentFE_Slide.pdf){:target="_blank"}[\[code\]](https://github.com/hcchuang/Revisiting-the-Missing-RD-Patent-Relation_Challenges-and-Solutions-for-Firm-Fixed-Effects-Models){:target="_blank"}  
    <small>The SFS Cavalcade Asia-Pacific 2024; 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&amp;E Seminar*; 16th NYCU Finance Conference (Keynote)*; 2024 FMA Asia Pacific Conference**. (Presented by <em>Po-Hsuan Hsu</em>)</small>
 
-   <details>
+<details>
      <summary>Abstract</summary>
      <div class="abstract-body">
      
- The common practice of including firm fixed effects in empirical researzch
+       The common practice of including firm fixed effects in empirical researzch
        may eliminate the explanatory power of important economic factors that are
        persistent. We use the intuitive R&amp;D–patent relation to illustrate
        this point. Our review of recent studies suggests a surprising pattern:
