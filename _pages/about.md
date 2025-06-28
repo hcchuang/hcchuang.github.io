@@ -16,8 +16,7 @@ details .abstract-body {
 /* ─── optional flair: cursor + triangles ─────────────────────── */
 details summary { cursor:pointer; list-style:none; }
 details summary::-webkit-details-marker { display:none; }
-details summary::before        { content:"▶ "; transition:.2s; }
-details[open] summary::before  { content:"▼ "; }
+
 </style>
 
 Hui-Ching Chuang is an Associate Professor in the Department of Statistics at
@@ -30,7 +29,7 @@ applications, natural language processing, econometrics, and investment.
    <small>The SFS Cavalcade Asia-Pacific 2024; 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&amp;E Seminar*; 16th NYCU Finance Conference (Keynote)*; 2024 FMA Asia Pacific Conference**. (Presented by <em>Po-Hsuan Hsu</em>)</small>
 
    <details>
-     <summary><strong>Abstract (click to expand)</strong></summary>
+     <summary>Abstract</summary>
      <div class="abstract-body">
        The common practice of including firm fixed effects in empirical research
        may eliminate the explanatory power of important economic factors that are
@@ -54,7 +53,7 @@ applications, natural language processing, econometrics, and investment.
    <small>European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small>
 
    <details>
-     <summary><strong>Abstract (click to expand)</strong></summary>
+     <summary>Abstract</summary>
      <div class="abstract-body">
        We fine-tune FinBERT, a finance-specific large language model, to classify
        hedge funds as systematic or discretionary. Removing manual subjectivity
@@ -70,7 +69,7 @@ applications, natural language processing, econometrics, and investment.
    <small>TPRI Brownbag Seminar*; NBER Productivity Seminar*; Max Planck I&amp;E Seminar*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (*Presented by John P. Walsh)</small>
 
    <details>
-     <summary><strong>Abstract (click to expand)</strong></summary>
+     <summary>Abstract</summary>
      <div class="abstract-body">
        Using three independent inventor surveys as labeled data, we combine
        contextual embeddings (BERT for Patents) with bibliometric indicators to
@@ -85,7 +84,7 @@ applications, natural language processing, econometrics, and investment.
    <small>28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; 6th Annual Meeting of Young Econometricians in Asia-Pacific*. (Presented by <em>O-Chia Chuang</em>)</small>
 
    <details>
-     <summary><strong>Abstract (click to expand)</strong></summary>
+     <summary>Abstract</summary>
      <div class="abstract-body">
        We generalize the vector autoregressive (VAR) model from conditional means
        to conditional expectiles (MCARE) for assessing risk spillovers among
