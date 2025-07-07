@@ -65,12 +65,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
-       Using three independent inventor surveys as labeled data, we combine
-       contextual embeddings (BERT for Patents) with bibliometric indicators to
-       build machine-learning models that estimate, over time and at scale, the
-       probability that a US patent is commercially exploited. The approach
-       reveals commercialization rates across technologies and cohorts that were
-       previously impossible to observe.
+       Leveraging three independent inventor surveys for ground-truth labels, we combine BERT-for-Patents embeddings of each patent’s text with detailed bibliometric variables (citations, assignee type, technology class, etc.) to train machin learning models that assign every U.S. patent a probability of commercial exploitation. This scale-able estimator uncovers previously unobservable commercialization patterns across technologies and filing cohorts, enabling finer analysis of the factors that drive patented inventions to the marketplace.
      </div>
    </details>
 
