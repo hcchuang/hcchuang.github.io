@@ -50,9 +50,14 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
    <details>
   <summary>Abstract</summary>
   <div class="abstract-body">
-    Leveraging three independent inventor surveys as ground-truth labels, this paper estimates commercialization probabilities for U.S. patents using modern patent-text embeddings and machine learning. We benchmark BERT for Patents, PaECTER, PatSPECTER, and Gemini across multiple patent text fields—title/abstract, claims, brief summary, and combined text—and compare a broad set of classifiers. Our preferred Random Forest model using PaECTER title–abstract embeddings achieves strong predictive performance, with ROC-AUC of 84.9% and PR-AUC of 90.4%, and is used to generate out-of-sample commercialization predictions. To improve transparency, we use SHAP analysis to identify influential embedding dimensions and map them back to interpretable text patterns. We further validate the predictions using independent indicators of patent value, including 12-year renewals and 5-year non-self forward citations. The results provide a scalable way to measure commercialization and study how patented inventions move toward market use.
+    
+    This paper develops a scalable machine-learning measure of U.S. patent commercialization using labels from three inventor surveys and modern patent-text embeddings. We benchmark BERT for Patents, PaECTER, PatSPECTER, and Gemini across multiple patent-text fields, including title/abstract, claims, brief summary, and combined text, and compare a broad set of classifiers. Our preferred model, Random Forest using PaECTER title-and-abstract embeddings, achieves strong predictive performance, with ROC-AUC of 84.9% and PR-AUC of 90.4%, and is used to generate out-of-sample commercialization predictions. To improve transparency, we convert SHAP-ranked embedding dimensions into human-readable patent phrases, making transformer-based predictions more interpretable. We further validate the predictions using patent renewals and forward citations. The results provide a scalable way to measure commercialization and study how patented inventions move toward market use.
+    
   </div>
 </details>
+
+
+
    
 3. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_ (with Chung-Ming Kuan)[\[paper\]](/files/ManMachineHFR_20250420.pdf){:target="_blank"}[\[slide\]](/files/ManMachineHFR_slide.pdf)  
    <small>2025 FMA Asia Pacific Conference, European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small>
