@@ -48,14 +48,11 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 2. _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John P. Walsh)  
    <small>TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&amp;E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (\*Presented by John P. Walsh)</small>
    <details>
-  <summary>Abstract</summary>
-  <div class="abstract-body">
-    
-    This paper develops a scalable machine-learning measure of U.S. patent commercialization using labels from three inventor surveys and modern patent-text embeddings. We benchmark BERT for Patents, PaECTER, PatSPECTER, and Gemini across multiple patent-text fields, including title/abstract, claims, brief summary, and combined text, and compare a broad set of classifiers. Our preferred model, Random Forest using PaECTER title-and-abstract embeddings, achieves strong predictive performance, with ROC-AUC of 84.9% and PR-AUC of 90.4%, and is used to generate out-of-sample commercialization predictions. To improve transparency, we convert SHAP-ranked embedding dimensions into human-readable patent phrases, making transformer-based predictions more interpretable. We further validate the predictions using patent renewals and forward citations. The results provide a scalable way to measure commercialization and study how patented inventions move toward market use.
-  </div>
-</details>
-
-
+     <summary>Abstract</summary>
+     <div class="abstract-body">
+       This paper develops a scalable machine-learning measure of U.S. patent commercialization using labels from three inventor surveys and modern patent-text embeddings. We benchmark BERT for Patents, PaECTER, PatSPECTER, and Gemini across multiple patent-text fields, including title/abstract, claims, brief summary, and combined text, and compare a broad set of classifiers. Our preferred model, Random Forest using PaECTER title-and-abstract embeddings, achieves strong predictive performance, with ROC-AUC of 84.9% and PR-AUC of 90.4%, and is used to generate out-of-sample commercialization predictions. To improve transparency, we convert SHAP-ranked embedding dimensions into human-readable patent phrases, making transformer-based predictions more interpretable. We further validate the predictions using patent renewals and forward citations. The results provide a scalable way to measure commercialization and study how patented inventions move toward market use.
+     </div>
+   </details>
 
    
 3. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_ (with Chung-Ming Kuan)[\[paper\]](/files/ManMachineHFR_20250420.pdf){:target="_blank"}[\[slide\]](/files/ManMachineHFR_slide.pdf)  
