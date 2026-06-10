@@ -48,11 +48,11 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 2. _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John P. Walsh)  
    <small>TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&amp;E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (\*Presented by John P. Walsh)</small>
    <details>
-     <summary>Abstract</summary>
-     <div class="abstract-body">
-       Leveraging three independent inventor surveys for ground-truth labels, we combine modern embeddings of each patent’s text to train machine learning models that assign every U.S. patent a probability of commercial exploitation. This scale-able estimator uncovers previously unobservable commercialization patterns across technologies and filing cohorts, enabling finer analysis of the factors that drive patented inventions to the marketplace.
-     </div>
-   </details>
+  <summary>Abstract</summary>
+  <div class="abstract-body">
+    Leveraging three independent inventor surveys as ground-truth labels, this paper estimates commercialization probabilities for U.S. patents using modern patent-text embeddings and machine learning. We benchmark BERT for Patents, PaECTER, PatSPECTER, and Gemini across multiple patent text fields—title/abstract, claims, brief summary, and combined text—and compare a broad set of classifiers. Our preferred Random Forest model using PaECTER title–abstract embeddings achieves strong predictive performance, with ROC-AUC of 84.9% and PR-AUC of 90.4%, and is used to generate out-of-sample commercialization predictions. To improve transparency, we use SHAP analysis to identify influential embedding dimensions and map them back to interpretable text patterns. We further validate the predictions using independent indicators of patent value, including 12-year renewals and 5-year non-self forward citations. The results provide a scalable way to measure commercialization and study how patented inventions move toward market use.
+  </div>
+</details>
    
 3. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_ (with Chung-Ming Kuan)[\[paper\]](/files/ManMachineHFR_20250420.pdf){:target="_blank"}[\[slide\]](/files/ManMachineHFR_slide.pdf)  
    <small>2025 FMA Asia Pacific Conference, European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small>
