@@ -28,7 +28,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
      <summary>Abstract</summary>
      <div class="abstract-body">
      
-       The common practice of including firm fixed effects in empirical researzch
+       The common practice of including firm fixed effects in empirical research
        may eliminate the explanatory power of important economic factors that are
        persistent. We use the intuitive R&amp;D–patent relation to illustrate
        this point. Our review of recent studies suggests a surprising pattern:
