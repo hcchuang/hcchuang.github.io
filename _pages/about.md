@@ -72,17 +72,27 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 
 
 
-4. _Assessing Risk Spillovers with (Lasso) VAR for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
+4. _Estimating (High-Dimensional) Systems of Equations for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
    <small>28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\*Presented by <em>O-Chia Chuang</em>)</small>
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
-       We generalize the vector autoregressive (VAR) model from conditional means
-       to conditional expectiles (MCARE) for assessing risk spillovers among
-       multiple entities. For high-dimensional systems, we impose an 
-       <em>L<sub>1</sub></em> penalty (L-MCARE). Applied to the return network of
-       global systemically important banks, MCARE and L-MCARE uncover
-       time-varying tail-risk transmission patterns.
+       Expectiles have recently received considerable
+attention in econometric theory and empirical applications, yet existing
+approaches predominantly focus on single-equation frameworks. This paper
+introduces the first systems of equations for expectiles (SEE), including
+seemingly unrelated regressions for expectiles and panel expectiles as
+special cases, to capture the interdependencies among the expectiles of
+multiple units. We propose a system asymmetric least squares (SALS)
+estimator for SEE and develop a feasible generalized SALS (FGSALS) estimator
+to account for cross-equation error dependence. We further extend the two
+estimators to high-dimensional settings. We derive the asymptotic properties
+of the estimators in both settings. As an empirical application, we apply
+our methods to the 2025 list of global systemically important banks. Formal
+in-sample and out-of-sample model evaluation tests document our models significantly
+outperform single equation models. We also find clear asymmetric effects of
+past positive and negative shocks of different units as well as their
+volatilities on the expectiles.
      </div>
    </details>
 
