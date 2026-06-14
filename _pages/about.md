@@ -75,13 +75,26 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 4. _Estimating (High-Dimensional) Systems of Equations for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
    <small>28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\*Presented by <em>O-Chia Chuang</em>)</small>
    <details>
-  <summary><strong>Abstract</strong></summary>
-  <div class="abstract-body">
-    <p>
-      Expectile methods have received increasing attention in econometric theory and empirical applications, but existing approaches largely remain within single-equation frameworks. This paper introduces the first systems of equations for expectiles (SEE), nesting seemingly unrelated expectile regressions and panel expectiles as special cases, to model interdependencies among the expectiles of multiple units. We propose system asymmetric least squares (SALS) and feasible generalized SALS (FGSALS) estimators, the latter allowing for cross-equation error dependence, and extend both estimators to high-dimensional settings. We establish their asymptotic properties in both conventional and high-dimensional frameworks. Applying the methods to the 2025 list of global systemically important banks, we show that SEE models significantly outperform single-equation alternatives in both in-sample and out-of-sample evaluations. The results reveal asymmetric effects of past positive and negative shocks, as well as volatility spillovers, across units.
-    </p>
-  </div>
-</details>
+     <summary>Abstract</summary>
+     <div class="abstract-body">
+       Expectile methods have received increasing attention in econometric theory
+       and empirical applications, but existing approaches largely remain within
+       single-equation frameworks. This paper introduces the first systems of
+       equations for expectiles (SEE), nesting seemingly unrelated expectile
+       regressions and panel expectiles as special cases, to model
+       interdependencies among the expectiles of multiple units. We propose
+       system asymmetric least squares (SALS) and feasible generalized SALS
+       (FGSALS) estimators, the latter allowing for cross-equation error
+       dependence, and extend both estimators to high-dimensional settings. We
+       establish their asymptotic properties in both conventional and
+       high-dimensional frameworks. Applying the methods to the 2025 list of
+       global systemically important banks, we show that SEE models significantly
+       outperform single-equation alternatives in both in-sample and
+       out-of-sample evaluations. The results reveal asymmetric effects of past
+       positive and negative shocks, as well as volatility spillovers, across
+       units.
+     </div>
+   </details>
 
 ## PUBLISHED PAPERS
 1. Jui-Chung Yang, Hui-Ching Chuang, and Chung-Ming Kuan (2020).“Double Machine Learning with Gradient Boosting and Its Application to the Big N Audit Quality Effect.” _Journal of Econometrics_, 216 (1), 268-283.  
