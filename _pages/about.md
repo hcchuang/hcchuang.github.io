@@ -55,24 +55,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
    </details>
 
    
-3. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_ (with Chung-Ming Kuan)[\[paper\]](/files/ManMachineHFR_20250420.pdf){:target="_blank"}[\[slide\]](/files/ManMachineHFR_slide.pdf)  
-   <small>2025 FMA Asia Pacific Conference, European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small>
-   <details>
-     <summary>Abstract</summary>
-     <div class="abstract-body">
-       We fine-tune FinBERT, a finance-specific large language model, to classify
-       hedge funds as systematic or discretionary. Removing manual subjectivity
-       yields cleaner style labels and reveals that systematic funds, on average,
-       generate higher factor-adjusted returns than discretionary funds. After
-       a false-discovery-rate adjustment, 10-20 % of funds still show
-       statistically significant positive alphas in models that include both
-       observable and latent risk factors.
-     </div>
-   </details>
-
-
-
-4. _Estimating (High-Dimensional) Systems of Equations for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
+3. _Estimating (High-Dimensional) Systems of Equations for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
    <small>28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\*Presented by <em>O-Chia Chuang</em>)</small>
    <details>
      <summary>Abstract</summary>
@@ -93,6 +76,21 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
        out-of-sample evaluations. The results reveal asymmetric effects of past
        positive and negative shocks, as well as volatility spillovers, across
        units.
+     </div>
+   </details>
+
+4. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_ (with Chung-Ming Kuan)[\[paper\]](/files/ManMachineHFR_20250420.pdf){:target="_blank"}[\[slide\]](/files/ManMachineHFR_slide.pdf)  
+   <small>2025 FMA Asia Pacific Conference, European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small>
+   <details>
+     <summary>Abstract</summary>
+     <div class="abstract-body">
+       We fine-tune FinBERT, a finance-specific large language model, to classify
+       hedge funds as systematic or discretionary. Removing manual subjectivity
+       yields cleaner style labels and reveals that systematic funds, on average,
+       generate higher factor-adjusted returns than discretionary funds. After
+       a false-discovery-rate adjustment, 10-20 % of funds still show
+       statistically significant positive alphas in models that include both
+       observable and latent risk factors.
      </div>
    </details>
 
