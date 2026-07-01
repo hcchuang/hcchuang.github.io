@@ -56,7 +56,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
 
    
 3. _Estimating (High-Dimensional) Systems of Equations for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
-   <small>28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\*Presented by <em>O-Chia Chuang</em>)</small>
+   <small> International Symposia on Nonparametric Statistics 2026\**, 28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA 2020; TES 2020; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\**\*Presented by <em>Zaichao Du, O-Chia Chuang</em>)</small>
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
