@@ -55,7 +55,15 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
    </details>
 
    
-3. _Estimating (High-Dimensional) Systems of Equations for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
+3. _Design Patent Similarity with ArcFace Metric Learning_ (with Yueh-Heng Wu)[\[paper\]](/files/DesignPatentSimilarity_ArcFace.pdf){:target="_blank"}  
+   <details>
+     <summary>Abstract</summary>
+     <div class="abstract-body">
+       We propose an embedding-based patent retrieval system that converts patent drawings into compact visual representations for scalable similarity search. Using patent-identity supervision with ArcFace metric learning and ConvNeXtV2 backbones on an extensive U.S. design patent corpus (1976--2025), our best 256-pixel ConvNeXtV2-Tiny model reaches mAP = 0.819 on the DeepPatent Standard Gallery and mAP = 0.649 on the substantially larger Extended Gallery. Query expansion further raises Standard-Gallery mAP to 0.842. Experiments show that higher-resolution inputs and retrieval re-ranking improve fine-grained visual matching, while the ArcFace-trained embeddings provide strong instance-level retrieval performance for practical prior-art search and design patent analytics.
+     </div>
+   </details>
+
+4. _Estimating (High-Dimensional) Systems of Equations for Expectile_ (with O-Chia Chuang, Zaichao Du, and Zhenhong Huang)  
    <small> International Symposia on Nonparametric Statistics 2026\*, 28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA; TES; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\*Presented by <em>Zaichao Du, O-Chia Chuang</em>)</small>
    <details>
      <summary>Abstract</summary>
@@ -79,7 +87,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
      </div>
    </details>
 
-4. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_ (with Chung-Ming Kuan)[\[paper\]](/files/ManMachineHFR_20250420.pdf){:target="_blank"}[\[slide\]](/files/ManMachineHFR_slide.pdf)  
+5. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_ (with Chung-Ming Kuan)[\[paper\]](/files/ManMachineHFR_20250420.pdf){:target="_blank"}[\[slide\]](/files/ManMachineHFR_slide.pdf)  
    <small>2025 FMA Asia Pacific Conference, European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small>
    <details>
      <summary>Abstract</summary>
