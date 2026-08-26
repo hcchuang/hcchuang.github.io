@@ -22,7 +22,7 @@ details summary::-webkit-details-marker { display:none; }
 Hui-Ching Chuang is an Associate Professor in the Department of Statistics at National Taipei University. Her research interests include econometrics and investment, with a focus on applying machine learning and natural language processing techniques.[\[cv\]](/files/cv_hcc_202505.pdf){:target="_blank"}
 
 ## WORKING PAPERS
-1. _Revisiting the Missing R&D-Patent Relation: Challenges and Solutions for Firm Fixed Effects Models_ (with <a href="https://oir.site.nthu.edu.tw/p/412-1487-18850.php" target="_blank">Po-Hsuan Hsu</a>, Chung-Ming Kuan, and Jui-Chung Yang)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846){:target="_blank"}[\[slide\]](/files/MissingRDPatentFE_Slide.pdf){:target="_blank"}[\[code\]](https://github.com/hcchuang/Revisiting-the-Missing-RD-Patent-Relation_Challenges-and-Solutions-for-Firm-Fixed-Effects-Models){:target="_blank"} <small>The SFS Cavalcade Asia-Pacific 2024; 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&amp;E Seminar\*; 16th NYCU Finance Conference (Keynote)\*; 2024 FMA Asia Pacific Conference. (\*Presented by <em><a href="https://oir.site.nthu.edu.tw/p/412-1487-18850.php" target="_blank">Po-Hsuan Hsu</a></em>)</small>  
+1. _Revisiting the Missing R&D-Patent Relation: Challenges and Solutions for Firm Fixed Effects Models_ (with Po-Hsuan Hsu, Chung-Ming Kuan, and Jui-Chung Yang)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846){:target="_blank"}[\[slide\]](/files/MissingRDPatentFE_Slide.pdf){:target="_blank"}[\[code\]](https://github.com/hcchuang/Revisiting-the-Missing-RD-Patent-Relation_Challenges-and-Solutions-for-Firm-Fixed-Effects-Models){:target="_blank"} <small>The SFS Cavalcade Asia-Pacific 2024; 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&amp;E Seminar\*; 16th NYCU Finance Conference (Keynote)\*; 2024 FMA Asia Pacific Conference. (\*Presented by <em><a href="https://oir.site.nthu.edu.tw/p/412-1487-18850.php" target="_blank">Po-Hsuan Hsu</a></em>)</small>  
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
@@ -44,7 +44,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
     </div>
    </details>
 
-2. _What Share of Patents Is Commercialized?_ (with <a href="https://oir.site.nthu.edu.tw/p/412-1487-18850.php" target="_blank">Po-Hsuan Hsu</a>, You-Na Lee, and John P. Walsh) <small>TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&amp;E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (\*Presented by John P. Walsh)</small>  
+2. _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John P. Walsh) <small>TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&amp;E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (\*Presented by John P. Walsh)</small>  
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
