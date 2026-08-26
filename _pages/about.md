@@ -13,9 +13,23 @@ details .abstract-body {
   margin-left: 1.5rem;     /* ← tweak indent if you like */
 }
 
-/* ─── optional flair: cursor + triangles ─────────────────────── */
-details summary { cursor:pointer; list-style:none; }
+/* ─── compact click cue for abstracts ─────────────────── */
+details summary {
+  cursor: pointer;
+  list-style: none;
+  width: fit-content;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: #555;
+}
 details summary::-webkit-details-marker { display:none; }
+details summary::before {
+  content: "\25B8";
+  display: inline-block;
+  margin-right: 0.28rem;
+}
+details[open] summary::before { content: "\25BE"; }
+details summary:hover { color: #111; text-decoration: underline; }
 
 </style>
 
