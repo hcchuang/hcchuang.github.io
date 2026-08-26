@@ -95,8 +95,8 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
        a false-discovery-rate adjustment, 10-20 % of funds still show
        statistically significant positive alphas in models that include both
        observable and latent risk factors.
-   </div>
-  </details>
+     </div>
+   </details>
 
 6. _Hawkish by Voice: Financial Market Reactions to FOMC Communication_ (with Yueh-Heng Wu and Ju-Fang Yen)[\[paper\]](/files/FOMCVoice_revised_Aug14.pdf){:target="_blank"}[\[slide\]](/files/FOMCVoice_15min_Slides.pdf){:target="_blank"}  
    <details>
