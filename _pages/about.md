@@ -71,7 +71,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
-       We propose an embedding-based patent retrieval system that converts patent drawings into compact visual representations for scalable similarity search. Using patent-identity supervision with ArcFace metric learning and ConvNeXtV2 backbones on an extensive U.S. design patent corpus (1976--2025), our best 256-pixel ConvNeXtV2-Tiny model reaches mAP = 0.819 on the DeepPatent Standard Gallery and mAP = 0.649 on the substantially larger Extended Gallery. Query expansion further raises Standard-Gallery mAP to 0.842. Experiments show that higher-resolution inputs and retrieval re-ranking improve fine-grained visual matching, while the ArcFace-trained embeddings provide strong instance-level retrieval performance for practical prior-art search and design patent analytics.
+       We present a large-scale design-patent retrieval framework using modern ConvNeXtV2 vision backbones. Our best configuration, ConvNeXtV2-Tiny with 256-pixel inputs, achieves an mAP of 0.819 on the Standard Gallery and 0.649 on the Extended Gallery, while query expansion raises Standard Gallery mAP to 0.842. Cosine-space analyses further indicate that the embeddings capture patent-specific visual forms, such as shape, geometry, and configuration, rather than merely reproducing broad USPC functional categories. We also develop an entropy-based procedure to detect photographic-style patent records. Overall, the framework scales to large patent-drawing galleries and supports end-to-end prior-art search and design-patent analytics.
      </div>
    </details>
 
