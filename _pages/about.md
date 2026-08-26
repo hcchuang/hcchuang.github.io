@@ -45,8 +45,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
     </div>
    </details>
 
-2. _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John P. Walsh)  
-   <small>TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&amp;E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (\*Presented by John P. Walsh)</small>
+2. _What Share of Patents Is Commercialized?_ (with Po-Hsuan Hsu, You-Na Lee, and John P. Walsh) <small>TPRI Brownbag Seminar\*; NBER Productivity Seminar\*; Max Planck I&amp;E Seminar\*; TES 2023; Academia Sinica; NTU; NTPU; YZU. (\*Presented by John P. Walsh)</small>  
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
