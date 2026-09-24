@@ -71,7 +71,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
-       We present a large-scale retrieval framework for USPTO design patent drawings spanning 1976–2025. On the DeepPatent benchmark, our best ConvNeXtV2 backbone achieves an mAP of 0.819 on the Standard Gallery and 0.649 on the Extended Gallery. Cosine-space analyses further indicate that the learned embeddings capture patent-specific visual forms rather than simply reproducing USPC functional categories. We also develop an entropy-based procedure to identify photographic-style patent records. Our framework supports end-to-end prior-art search and large-scale design-patent analytics.
+       We introduce a large-scale image retrieval system for USPTO design patent drawings spanning 1976--2025. On the DeepPatent benchmark, our best-performing ConvNeXtV2 backbone achieves mAP scores of 0.819 and 0.649 on the Standard and Extended Galleries, respectively. Analyses of the embedding space further indicate that the learned representations capture patent-specific visual forms rather than merely reproducing USPC functional classifications. As a byproduct, we develop an entropy-based procedure for distinguishing photographic-style images from conventional patent drawings. The resulting framework enables end-to-end prior-art search and supports large-scale empirical analysis of design patents.
      </div>
    </details>
 
