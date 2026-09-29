@@ -120,6 +120,14 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
      </div>
    </details>
 
+7. _Superior or Spurious? Mutual Fund Alpha in Japan with Latent Factors and False Discovery Control_ (with Yu-Hao Chang and Chung-Ming Kuan)[\[paper\]](/files/JapanMutualFund_withName.pdf){:target="_blank"}  
+   <details>
+     <summary>Abstract</summary>
+     <div class="abstract-body">
+       This paper evaluates the performance of Japanese equity mutual funds over a period characterized by substantial changes in Japan's financial and macroeconomic environment. Using 1,483 funds from 2002 to 2023, we account for latent common factors and multiple-testing bias within a two-pass asset-pricing framework. Over the full sample, evidence of superior performance is limited: only 0.20% of funds are classified as outperformers when the false discovery rate (FDR) is controlled at levels from 5% to 20%. Over shorter subperiods, however, outperformance is more common, and fund performance rankings exhibit weak persistence. Portfolios formed from Benjamini&ndash;Hochberg-selected funds subsequently earn compound annual returns of 15.08%&ndash;15.61%, compared with 10.31% for TOPIX, and generate significant factor-adjusted monthly alphas of approximately 31 basis points. These portfolios also exhibit higher Sharpe and Sortino ratios and smaller maximum drawdowns than TOPIX.
+     </div>
+   </details>
+
 ## PUBLISHED PAPERS
 1. Jui-Chung Yang, Hui-Ching Chuang, and Chung-Ming Kuan (2020).“Double Machine Learning with Gradient Boosting and Its Application to the Big N Audit Quality Effect.” _Journal of Econometrics_, 216 (1), 268-283.  
 
