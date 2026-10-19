@@ -36,25 +36,12 @@ details summary:hover { color: #111; text-decoration: underline; }
 Hui-Ching Chuang is an Associate Professor in the Department of Statistics at National Taipei University. Her research interests include econometrics and investment, with a focus on applying machine learning and natural language processing techniques.[\[cv\]](/files/cv_hcc_20260924.pdf){:target="_blank"}
 
 ## WORKING PAPERS
-1. _Revisiting the Missing R&D-Patent Relation: Challenges and Solutions for Firm Fixed Effects Models_ (with Po-Hsuan Hsu, Chung-Ming Kuan, and Jui-Chung Yang)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846){:target="_blank"}[\[slide\]](/files/MissingRDPatentFE_Slide.pdf){:target="_blank"}[\[code\]](https://github.com/hcchuang/Revisiting-the-Missing-RD-Patent-Relation_Challenges-and-Solutions-for-Firm-Fixed-Effects-Models){:target="_blank"} <small>The SFS Cavalcade Asia-Pacific 2024; 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&amp;E Seminar\*; 16th NYCU Finance Conference (Keynote)\*; 2024 FMA Asia Pacific Conference. (\*Presented by <em>Po-Hsuan Hsu</em>)</small>  
+1. _Estimating Persistent Explanatory Variables: A Machine Learning Approach_ (with Po-Hsuan Hsu, Chung-Ming Kuan, and Jui-Chung Yang)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4636846){:target="_blank"}[\[slide\]](/files/MissingRDPatentFE_Slide.pdf){:target="_blank"}[\[code\]](https://github.com/hcchuang/Revisiting-the-Missing-RD-Patent-Relation_Challenges-and-Solutions-for-Firm-Fixed-Effects-Models){:target="_blank"} <small>The SFS Cavalcade Asia-Pacific 2024; 2024 UC Davis-FMA Napa Finance Conference; Max Planck I&amp;E Seminar\*; 16th NYCU Finance Conference (Keynote)\*; 2024 FMA Asia Pacific Conference. (\*Presented by <em>Po-Hsuan Hsu</em>)</small>  
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
      
-       The common practice of including firm fixed effects in empirical research
-       may eliminate the explanatory power of important economic factors that are
-       persistent. We use the intuitive R&amp;D–patent relation to illustrate
-       this point. Our review of recent studies suggests a surprising pattern:
-       R&amp;D input positively explains patent output in only half of prior
-       regression estimations. This “missing link” can be attributed to the
-       persistence of R&amp;D and patents, which allows between-firm variation
-       to be absorbed by firm dummies. We consider adjusted Hausman–Taylor
-       estimates and advanced machine-learning methods, both of which restore a
-       clear positive R&amp;D–patent relation. Notably, ML models reveal that
-       only 10-20 % of firm dummies are informative; including the rest biases
-       identification. The paper offers two ready-to-use econometric “second
-       opinions” for researchers dealing with explanatory variables that strongly
-       correlate with between-individual unobservables.
+       The common practice of using firm fixed effects models may weaken or even eliminate the explanatory power of important variables that are persistent. Because these variables correlate with time-invariant unobservables, their coefficients in firm fixed effects models rely only on within-firm variation and can thus be estimated imprecisely. In this paper, we propose advanced machine learning methods that select informative firm dummies for inclusion in the regression. These methods produce estimates with lower estimation errors and achieve higher power in an extensive set of simulations accommodating various persistence patterns. To facilitate use of our methods, we provide general guidance for empirical research and detailed decision steps under specific data-generating processes. When we apply these methods to two important economic relations subject to persistence, they point to a positive R&D-patent relation and a concave managerial ownership-firm value relation, consistent with economic theory.
     </div>
    </details>
 
