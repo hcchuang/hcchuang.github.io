@@ -40,7 +40,6 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
-     
        The common practice of using firm fixed effects models may weaken or even eliminate the explanatory power of important variables that are persistent. Because these variables correlate with time-invariant unobservables, their coefficients in firm fixed effects models rely only on within-firm variation and can thus be estimated imprecisely. In this paper, we propose advanced machine learning methods that select informative firm dummies for inclusion in the regression. These methods produce estimates with lower estimation errors and achieve higher power in an extensive set of simulations accommodating various persistence patterns. To facilitate use of our methods, we provide general guidance for empirical research and detailed decision steps under specific data-generating processes. When we apply these methods to two important economic relations subject to persistence, they point to a positive R&D-patent relation and a concave managerial ownership-firm value relation, consistent with economic theory.
     </div>
    </details>
