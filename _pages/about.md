@@ -61,7 +61,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
      </div>
    </details>
 
-4. _Hawkish by Voice: Financial Market Reactions to FOMC Communication_ (with Yueh-Heng Wu and Ju-Fang Yen)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7367160){:target="_blank"}  
+4. _Hawkish by Voice: Financial Market Reactions to FOMC Communication_ (with Yueh-Heng Wu and Ju-Fang Yen)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7367160){:target="_blank"}[\[slide\]](/files/fomcvoice_seminar.pdf){:target="_blank"}    
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
