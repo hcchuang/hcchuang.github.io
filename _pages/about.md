@@ -69,26 +69,11 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
      </div>
    </details>
 
-5. _Estimating (High-Dimensional) Systems of Equations for Expectile_ (with O-Chia Chuang, Zaichao Du) <small>International Symposia on Nonparametric Statistics 2026\*, 28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA; TES; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\*Presented by <em>Zaichao Du, O-Chia Chuang</em>)</small>  
+5. _Estimating (High-Dimensional) Systems of Equations for Expectiles_ (with O-Chia Chuang, Zaichao Du) <small>International Symposia on Nonparametric Statistics 2026\*, 28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA; TES; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\*Presented by <em>Zaichao Du, O-Chia Chuang</em>)</small>  
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
-       Expectile methods have received increasing attention in econometric theory
-       and empirical applications, but existing approaches largely remain within
-       single-equation frameworks. This paper introduces the first systems of
-       equations for expectiles (SEE), nesting seemingly unrelated expectile
-       regressions and panel expectiles as special cases, to model
-       interdependencies among the expectiles of multiple units. We propose
-       system asymmetric least squares (SALS) and feasible generalized SALS
-       (FGSALS) estimators, the latter allowing for cross-equation error
-       dependence, and extend both estimators to high-dimensional settings. We
-       establish their asymptotic properties in both conventional and
-       high-dimensional frameworks. Applying the methods to the 2025 list of
-       global systemically important banks, we show that SEE models significantly
-       outperform single-equation alternatives in both in-sample and
-       out-of-sample evaluations. The results reveal asymmetric effects of past
-       positive and negative shocks, as well as volatility spillovers, across
-       units.
+       This paper develops a framework for systems of conditional expectile equations, including seemingly unrelated regressions and panel expectile models. We propose a two-stage estimator that augments each equation with estimated residuals from the other equations to account for contemporaneous dependence. For fixed-dimensional systems, we study consistency and asymptotic normality and derive a covariance formula that incorporates first-stage estimation error. We extend the procedure to sparse high-dimensional systems using LASSO in both stages. The high-dimensional analysis allows dependent observations and separates regularization error from generated-regressor error, clarifying how first-stage accuracy affects second-stage estimation and restricted eigenvalue conditions. An application to global systemically important banks finds asymmetric responses to past losses and substantial reductions in residual correlation after the second-stage adjustment.
      </div>
    </details>
 
