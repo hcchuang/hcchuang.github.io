@@ -1,22 +1,3 @@
 <!-- start custom analytics snippet -->
-<!-- GoatCounter: page views. Dashboard: https://hcchuang.goatcounter.com -->
-<script data-goatcounter="https://hcchuang.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
 
-<!-- GoatCounter: count clicks on file downloads (PDFs etc.) and outbound links -->
-<script>
-  document.addEventListener('click', function (e) {
-    var a = e.target.closest && e.target.closest('a[href]');
-    if (!a || !window.goatcounter || !window.goatcounter.count) return;
-    var url = new URL(a.href, location.href);
-    var isFile = /\.(pdf|zip|pptx?|docx?|xlsx?)$/i.test(url.pathname);
-    var isExternal = url.host && url.host !== location.host && /^https?:$/.test(url.protocol);
-    if (!isFile && !isExternal) return;
-    window.goatcounter.count({
-      path:  isFile && !isExternal ? 'download: ' + url.pathname : 'outbound: ' + url.host + url.pathname,
-      title: (a.textContent || '').trim().slice(0, 100),
-      event: true
-    });
-  });
-</script>
 <!-- end custom analytics snippet -->
