@@ -61,15 +61,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
      </div>
    </details>
 
-4. _Hawkish by Voice: Financial Market Reactions to FOMC Communication_ (with Yueh-Heng Wu and Ju-Fang Yen)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7367160){:target="_blank"}[\[slide\]](/files/fomcvoice_seminar.pdf){:target="_blank"}    
-   <details>
-     <summary>Abstract</summary>
-     <div class="abstract-body">
-       This paper examines whether vocal delivery during Federal Open Market Committee (FOMC) press-conference Q&amp;A sessions contains market-relevant information beyond the words spoken. Using WavLM, a large-scale speech processing model, we construct a vocal-based measure of monetary-policy stance, defined as hawkish versus dovish rather than generic emotion, applied to 89 press conferences from 2011&ndash;2025. For each sentence, we compare the original human audio with a text-to-speech (TTS) rendering of the same text. The Human&ndash;TTS difference provides a fixed-text measure of Q&amp;A delivery and speaker composition. Larger gaps are associated with higher short-window cumulative abnormal returns on Treasury ETFs across maturities, conditional on textual stance, macroeconomic conditions, monetary-policy surprises, and chair regimes. When economic policy uncertainty is high, larger gaps are also associated with higher S&amp;P 500 ETF returns and declines in VIX and VVIX. The evidence indicates that the vocal delivery and speaker composition of the Q&amp;A contain state-dependent information not captured by text alone.
-     </div>
-   </details>
-
-5. _Estimating (High-Dimensional) Systems of Equations for Expectiles_ (with O-Chia Chuang, Zaichao Du) [\[package\]](https://github.com/hcchuang/ExpectSEE) <small>International Symposia on Nonparametric Statistics 2026\*, 28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA; TES; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\*Presented by <em>Zaichao Du, O-Chia Chuang</em>)</small>  
+4. _Estimating (High-Dimensional) Systems of Equations for Expectiles_ (with O-Chia Chuang, Zaichao Du) [\[package\]](https://github.com/hcchuang/ExpectSEE) <small>International Symposia on Nonparametric Statistics 2026\*, 28th Conference on the Theories and Practices of Securities and Financial Markets; NTU; TFA; TES; 6th Annual Meeting of Young Econometricians in Asia-Pacific\*. (\*Presented by <em>Zaichao Du, O-Chia Chuang</em>)</small>  
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
@@ -77,7 +69,7 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
      </div>
    </details>
 
-6. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_ (with Chung-Ming Kuan) <small>2025 FMA Asia Pacific Conference, European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small>  
+5. _Classifying Hedge Fund Strategies with Large Language Models: Systematic vs. Discretionary Performance_ (with Chung-Ming Kuan) <small>2025 FMA Asia Pacific Conference, European Financial Management Association 2025 Annual Meeting, Greece; Quantitative Finance Workshop 3 (Asset Pricing &amp; Risk Management), IMS-NUS, Singapore; 26th Conference on the Theories and Practices of Securities and Financial Markets.</small>  
    <details>
      <summary>Abstract</summary>
      <div class="abstract-body">
@@ -90,6 +82,14 @@ Hui-Ching Chuang is an Associate Professor in the Department of Statistics at Na
        observable and latent risk factors.
      </div>
    </details>
+
+6. _Hawkish by Voice: Financial Market Reactions to FOMC Communication_ (with Yueh-Heng Wu and Ju-Fang Yen)[\[ssrn\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7367160){:target="_blank"}[\[slide\]](/files/fomcvoice_seminar.pdf){:target="_blank"}    
+   <details>
+     <summary>Abstract</summary>
+     <div class="abstract-body">
+       This paper examines whether vocal delivery during Federal Open Market Committee (FOMC) press-conference Q&amp;A sessions contains market-relevant information beyond the words spoken. Using WavLM, a large-scale speech processing model, we construct a vocal-based measure of monetary-policy stance, defined as hawkish versus dovish rather than generic emotion, applied to 89 press conferences from 2011&ndash;2025. For each sentence, we compare the original human audio with a text-to-speech (TTS) rendering of the same text. The Human&ndash;TTS difference provides a fixed-text measure of Q&amp;A delivery and speaker composition. Larger gaps are associated with higher short-window cumulative abnormal returns on Treasury ETFs across maturities, conditional on textual stance, macroeconomic conditions, monetary-policy surprises, and chair regimes. When economic policy uncertainty is high, larger gaps are also associated with higher S&amp;P 500 ETF returns and declines in VIX and VVIX. The evidence indicates that the vocal delivery and speaker composition of the Q&amp;A contain state-dependent information not captured by text alone.
+     </div>
+   </details>  
 
 7. _Superior or Spurious? Mutual Fund Alpha in Japan with Latent Factors and False Discovery Control_ (with Yu-Hao Chang and Chung-Ming Kuan)[\[paper\]](/files/JapanMutualFund_withName.pdf){:target="_blank"}  
    <details>
